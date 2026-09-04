@@ -1,0 +1,17 @@
+[h1]Smart Traffic Lights[/h1]
+A plugin for [b]TesmioLoader[/b] that implements intelligent traffic lights at road junctions.
+
+[h2]Features[/h2]
+[list]
+[*] [b]Dynamic Green Phases[/b]: The plugin constantly monitors vehicles waiting at junctions that are operating in "Traffic Light" mode.
+[*] [b]Wait-Time Reduction[/b]: If a road currently has a green light but no cars are waiting on it, and there are cars waiting on other red roads, the traffic light will immediately fast-forward to the yellow phase. No more waiting at an empty green light!
+[/list]
+
+[h2]Installation[/h2]
+[b]Important:[/b] This mod requires [url=https://github.com/Tesmio/TesmioLoader]TesmioLoader[/url] to work! Subscribing to this workshop item will download the files to your workshop folder, but you must manually install the plugin.
+[list=1]
+[*] Ensure you have the TesmioLoader framework installed.
+[*] Locate the downloaded files in your Steam workshop directory (usually [code]Steam\steamapps\workshop\content\784150\...\)[/code]
+[*] Copy [code]smart_traffic_lights.dll[/code] to your game directory: [code]Steam\steamapps\common\SovietRepublic\tesmioloader\build\plugins\[/code]
+[*] Activate the plugin via the [code]tesmiolauncher.exe[/code] interface.
+[/list]
