@@ -2,6 +2,8 @@
 
 [![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3795470803)
 
+**Download from Steam Workshop:** [Smart Traffic Lights (ID: 3795470803)](https://steamcommunity.com/sharedfiles/filedetails/?id=3795470803)
+
 A plugin for TesmioLoader (Workers & Resources: Soviet Republic) that implements intelligent traffic lights at road junctions.
 
 ## Features
